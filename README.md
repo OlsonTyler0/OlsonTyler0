@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/779532369185856700/22BE27A27796B275170C9D39C5E45F59FB5F9F72/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
