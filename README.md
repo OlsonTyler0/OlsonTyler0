@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tyler and I'm a Cyber Security Student, from the United States.</h2>
+<h2 align="left">Hi 👋! My name is Tyler and I'm a Cyber Security Student</h2>
 
 ###
 
@@ -55,11 +55,6 @@
   </a>
 </div>
 
-###
-
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif"  />
-
-###
 
 <br clear="both">
 
