@@ -22,14 +22,6 @@ Cybersecurity student specializing in enterprise cybersecurity and incident resp
   </a>
 </div>
 
-
----
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/OlsonTyler0/OlsonTyler0/output/snake.svg" alt="Snake animation" />
-
-###
 ---
 ###
 
