@@ -1,9 +1,7 @@
-<h2 align="left">💽 Welcome to @OlsonTyler0 </h2>
+<h2 align="left">Welcome to @OlsonTyler0 </h2>
 
-Cybersecurity student specializing in enterprise cybersecurity and incident response.
+I'm an undergraduate CyberSecurity student at Missouri State University. I have a keen passion for ansible, infrastructure as code solutions, and automation in general. You can find many project here including ones related to my homelab to my work in the Association for Business Information Technology students.
 
-> I have a keen interest in ansible server automation and infrastructure as code solutions and their implementation into cybersecurity.
-> Check out some of my code in shell scripts and ansible for CCDC!
 
 ---
 
@@ -21,6 +19,17 @@ Cybersecurity student specializing in enterprise cybersecurity and incident resp
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+
+### 
+
+## Certifications
+<div align="center">
+  <img src="https://images.credly.com/images/2d9ba442-a3ce-4105-9d69-57f478540f70/linkedin_thumb_CompTIA_A_2B.png" alt="CompTIA A+" height="120"/>
+  <img src="https://images.credly.com/images/8e76db95-d9ef-4a99-a684-5a21aa577e4b/linkedin_thumb_CompTIA_Network_2B.png" alt="CompTIA Network+" height="120"/>
+  <img src="https://images.credly.com/images/74790a75-8451-400a-8536-92d792c5184a/linkedin_thumb_CompTIA_Security_2Bce.png" alt="CompTIA Security+" height="120"/>
+</div>
+
 
 ---
 ###
