@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Tyler Olson" src="https://github.com/user-attachments/assets/590acf6e-fcc9-44b5-a163-0e6b9949fdc6" />
+
 <h2 align="left">Welcome to @OlsonTyler0 </h2>
 
 I'm an undergraduate CyberSecurity student at Missouri State University. I have a keen passion for ansible, infrastructure as code solutions, and automation in general. You can find many project here including ones related to my homelab to my work in the Association for Business Information Technology students.
