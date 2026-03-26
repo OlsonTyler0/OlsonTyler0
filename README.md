@@ -2,7 +2,7 @@
 
 <h2 align="left">Welcome to @OlsonTyler0 </h2>
 
-I'm an undergraduate CyberSecurity student at Missouri State University. I have a keen passion for ansible, infrastructure as code solutions, and automation in general. You can find many project here including ones related to my homelab to my work in the Association for Business Information Technology students.
+I'm an undergraduate CyberSecurity student at Missouri State University. I have a keen passion for ansible, infrastructure as code solutions, and automation in general. You can find many project here including ones related to my homelab and my work in the Association for Business Information Technology students.
 
 
 ---
